@@ -1,0 +1,26 @@
+[
+    {
+        "id":1,
+        "title":"Sakız",
+        "price":5,
+        "image":"https://www.gurmar.com.tr/images/thumbs/0002140_fal%C4%B1m-i%C5%9F%C4%B1l-karbonatl%C4%B1-aromal%C4%B1-%C5%9Fekersiz-sak%C4%B1z-5li_510.jpg"
+    },
+    {
+        "id":2,
+        "title":"Kola",
+        "price":20,
+        "image":"https://ayb.akinoncdn.com/products/2022/04/12/1740/c7515af9-86b8-425d-8fd8-b10aeb4a97e7_size780x780_quality60_cropCenter.jpg"
+    },
+    {
+        "id":3,
+        "title":"Ayakkabı",
+        "price":500,
+        "image":"https://img2-hotic.mncdn.com/Content/Images/Thumbs/3468458_beyaz-kadin-ayakkabi-173380.jpeg"
+    },
+    {
+        "id":4,
+        "title":"Araba",
+        "price":90000,
+        "image":"https://www.otoshops.com/cms/uploads/18/20180525141655/HaberOrtasedan.jpeg"
+    }
+]
